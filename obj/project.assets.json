@@ -241,11 +241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rjray\\OneDrive\\Desktop\\learning c#\\RestTesting\\RestTesting.csproj",
+      "projectUniqueName": "C:\\Users\\SyncthingServiceAcct\\Rj's Coding\\Work in Progress\\RestTesting\\RestTesting.csproj",
       "projectName": "RestTesting",
-      "projectPath": "C:\\Users\\rjray\\OneDrive\\Desktop\\learning c#\\RestTesting\\RestTesting.csproj",
+      "projectPath": "C:\\Users\\SyncthingServiceAcct\\Rj's Coding\\Work in Progress\\RestTesting\\RestTesting.csproj",
       "packagesPath": "C:\\Users\\rjray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rjray\\OneDrive\\Desktop\\learning c#\\RestTesting\\obj\\",
+      "outputPath": "C:\\Users\\SyncthingServiceAcct\\Rj's Coding\\Work in Progress\\RestTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -309,7 +309,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

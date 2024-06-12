@@ -1,7 +1,10 @@
 ﻿using RestSharp;
 using Newtonsoft.Json;
-using RestTesting;
+using RestTesting.Models;
+using RestTesting.Requests;
 using RestSharp.Authenticators;
+using RestTesting;
+
 
 
 namespace Program
@@ -10,22 +13,39 @@ public class Program
 {
     private static void Main()
     {
-        var url = "https://www.boredapi.com/api/activity/";
+        string url = "http://172.24.141.209:5265/api/";
         var client = new RestClient(url);
-        var request = new RestRequest();
-        var response = client.Execute<Activities>(request);
 
-        if (response.IsSuccessful == true)//attempt connection
-            {
-            var activity = JsonConvert.DeserializeObject<Activities>(response.Content);//deserialize json into c# object 
-            Console.WriteLine($"Activity Recomendation:{activity.Activity}");
-            Console.WriteLine($"Requires: {activity.Participants} humans");
-            }
-        else
+       try //CreateTestComment, GetTestComment and DeleteTestComment
         {
-            Console.WriteLine($"Connnection to server failed Error Code {response.StatusCode}"); 
+            int? _testComment = CreateComment.CreateCommentRequest(client, 1);
+            if (_testComment != null)
+            {
+                GetComment.GetCommentRequest(client, _testComment);
+                DeleteComment.DeleteCommentRequest(client, _testComment);
+            }
+
         }
+        catch(Exception ex)
+        {
+            Console.WriteLine($"GetComment Failed Because: {ex.Message}");
+        }
+
+
+
+        try //GetAllComments
+        {
+            GetComment.GetAllCommentsRequest(client);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"GetAllComments Failed Because: {ex.Message}");
+        }
+
+
     }
+
+
 }
 
 }

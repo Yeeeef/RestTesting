@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FuaMgbwWhR4ohTddEms2krUN/2XPUc68KmCCMCiM5WQzkLFgfmysMdRh1f0yNIxXrBasvtN51VwrCL7qnbdJUg==",
+  "dgSpecHash": "/XY6OsyG9+8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\rjray\\OneDrive\\Desktop\\learning c#\\RestTesting\\RestTesting.csproj",
+  "projectFilePath": "C:\\Users\\SyncthingServiceAcct\\Rj's Coding\\Work in Progress\\RestTesting\\RestTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rjray\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\rjray\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",

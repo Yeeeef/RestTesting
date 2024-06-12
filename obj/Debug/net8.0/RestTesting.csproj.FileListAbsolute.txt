@@ -16,3 +16,22 @@ c:\Users\rjray\OneDrive\Desktop\learning c#\RestTesting\obj\Debug\net8.0\RestTes
 c:\Users\rjray\OneDrive\Desktop\learning c#\RestTesting\obj\Debug\net8.0\RestTesting.genruntimeconfig.cache
 c:\Users\rjray\OneDrive\Desktop\learning c#\RestTesting\obj\Debug\net8.0\ref\RestTesting.dll
 c:\Users\rjray\OneDrive\Desktop\learning c#\RestTesting\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.csproj.AssemblyReference.cache
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.AssemblyInfoInputs.cache
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.AssemblyInfo.cs
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.csproj.CoreCompileInputs.cache
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.sourcelink.json
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\refint\RestTesting.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.pdb
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestTesting.exe
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestTesting.deps.json
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestTesting.runtimeconfig.json
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestTesting.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestTesting.pdb
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\bin\Debug\net8.0\RestSharp.dll
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTest.6E0E459A.Up2Date
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\RestTesting.genruntimeconfig.cache
+C:\Users\SyncthingServiceAcct\Rj's Coding\Work in Progress\RestTesting\obj\Debug\net8.0\ref\RestTesting.dll
