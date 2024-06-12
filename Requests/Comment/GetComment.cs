@@ -22,7 +22,6 @@ public class GetComment
             {
                 Console.WriteLine($"Id:{comment.Id}\nSubject:{comment.Subject}\nContent:{comment.Content}\n");
             }
-            Console.WriteLine(comments);
         }
         else Console.WriteLine(response.StatusCode);
     }
