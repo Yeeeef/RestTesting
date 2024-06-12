@@ -16,12 +16,13 @@ public class Program
         string url = "http://172.24.141.209:5265/api/";
         var client = new RestClient(url);
 
-       try //CreateTestComment, GetTestComment and DeleteTestComment
+       try //CreateTestComment, GetTestComment, UpdateComment and DeleteTestComment
         {
             int? _testComment = CreateComment.CreateCommentRequest(client, 1);
             if (_testComment != null)
             {
                 GetComment.GetCommentRequest(client, _testComment);
+                UpdateComment.UpdateCommentRequest(client, _testComment);
                 DeleteComment.DeleteCommentRequest(client, _testComment);
             }
 

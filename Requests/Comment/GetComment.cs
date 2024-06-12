@@ -29,7 +29,7 @@ public class GetComment
 
     public static void GetCommentRequest(RestClient client,int? id)
     {
-        Console.WriteLine($"Getting TestComment.s");
+        Console.WriteLine($"Getting TestComment.");
         var request = new RestRequest($"comment/{id}", Method.Get);
         var response = client.Get(request);
         if(response == null)
